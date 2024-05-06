@@ -11,6 +11,9 @@ The problem addressed by this application revolves around understanding heart fa
 
 Data/Operation Abstraction Design: 
 
+   This data has been sourced from - https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records 
+
+
 
 The dataset used in this application is sourced from the UCI Machine Learning Repository. It consists of clinical records collected from patients during their follow-up period, encompassing essential parameters such as age, blood-related metrics, medical conditions, and survival outcomes. The data preparation involves loading the dataset into a pandas DataFrame, selecting relevant columns, and handling missing values. This ensures that the dataset is ready for exploration and analysis within the application.
 
