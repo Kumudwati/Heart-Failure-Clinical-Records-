@@ -9,3 +9,5 @@ Data Visualization: Offers various visualization options including count plot fo
 About Section: Provides information about the dataset source, project purpose, and how to explore the dataset using the application.
 
 We can interactively select different visualization options from the sidebar to gain insights into the heart failure clinical records
+
+streamlit link : https://heart-failure-clinical-records.streamlit.app/
