@@ -1,6 +1,6 @@
-Streamlit App Link for Heart🫀 Failure Clinical Records Analysis -   https://heart-failure-clinical-records.streamlit.app/
+Streamlit App Link for Heart🫀 Failure Clinical Records Analysis -   https://heart-failure-clinical-records.streamlit.app/  📉
 
-Introduction:
+👩🏻‍💻Introduction:
 
 With a strong interest in using data exploration and visualization methods to understand health issues, this interactive application was developed to examine the Heart Failure Clinical Records Dataset. The goal is to advance data analysis techniques and support medical research by providing an intuitive platform for exploring and analyzing the dataset.
 
@@ -11,14 +11,14 @@ The problem addressed by this application revolves around understanding heart fa
 
 Data/Operation Abstraction Design: 
 
-   This data has been sourced from - https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records 
+  📄📃 This data has been sourced from - https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records 
 
 
 
 The dataset used in this application is sourced from the UCI Machine Learning Repository. It consists of clinical records collected from patients during their follow-up period, encompassing essential parameters such as age, blood-related metrics, medical conditions, and survival outcomes. The data preparation involves loading the dataset into a pandas DataFrame, selecting relevant columns, and handling missing values. This ensures that the dataset is ready for exploration and analysis within the application.
 
 
-Future Work : 
+⏳ Future Work : 
 
 To further enhance the capabilities of the application and deepen the analysis of heart failure clinical records, several avenues for future work are identified:
 
